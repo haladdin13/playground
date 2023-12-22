@@ -1,0 +1,41 @@
+body {
+    background-color: #f5b5e3;
+    font-family: system-ui;
+}
+
+h1 {
+    color: #52073d;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+thead {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+th tr {
+    text-align: center;
+}
+
+tbody {
+    align-content: center;
+}
+
+tbody tr {
+    align-content: center;
+}
+
+img {
+    max-height: 150px;
+}
+
+form {
+    text-align: center;
+}
